@@ -1,5 +1,4 @@
-# 概要
-- openpyxl練習用課題
+# openpyxl-pandas練習用課題
 - 100本ノックの第1章で扱うcsvデータ(以下参照)をsrcディレクトリ内に入れる
   - `customer_master.csv`
   - `item_master.csv`
